@@ -1,5 +1,5 @@
 //const api_url = "<heroku_app_url>"
-const api_url = "https://myfirstapptcet.herokuapp.com/user"
+const api_url = "https://tcetapp-priyal.herokuapp.com/user"
 
 function loadData(records = []) {
 	var table_data = "";
